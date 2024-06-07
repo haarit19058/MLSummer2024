@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "ee4f64bd96d2b482",
+    "type": "split",
+    "children": [
+      {
+        "id": "f85952e9e9748aa1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "399b94fbb64b6029",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SupervisedML/Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f9f076565c8bbf1",
+    "type": "split",
+    "children": [
+      {
+        "id": "37a368bbe7e0c213",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34e24e2e760baa41",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "470a22726286b82e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "92854a4afa7f99de",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "35b0592153bebde5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4e3e874a3238296",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4084fccbe9037682",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SupervisedML/Intro.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c16cad655d02ae02",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SupervisedML/Intro.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02be53230121a19f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "45335807e8b5094b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SupervisedML/Intro.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "399b94fbb64b6029",
+  "lastOpenFiles": [
+    "SupervisedML/Intro.md",
+    "SupervisedML",
+    "IICPC/STLcheatSheet.pdf",
+    "IICPC/Untitled.md",
+    "IICPC/STL in C++ and sorting basics.md",
+    "IICPC/Dynamic Programming.md",
+    "IICPC/STL cheatSheet.md",
+    "IICPC/STLCheatSheet.pdf",
+    "IICPC/STL cheatSheet.pdf",
+    "Untitled.md",
+    "DSAwithC++/OOPs.md",
+    "IICPC",
+    "TheCProgrammingLanguage/Combined Notes.md",
+    "Untitled 1.md",
+    "DSAwithC++/Learning C++.md",
+    "Standard Libs.md",
+    "SOP.md",
+    "TheCProgrammingLanguage/Functions in stdio.md",
+    "TheCProgrammingLanguage/Chapter7.md",
+    "TheCProgrammingLanguage/Chapter1.md",
+    "TheCProgrammingLanguage/Miscellaneous.md",
+    "TheCProgrammingLanguage/Chapter6.md",
+    "TheCProgrammingLanguage/Structures.md",
+    "TheCProgrammingLanguage/Types, Operators and Expressions.md",
+    "TheCProgrammingLanguage/Chapter8.md",
+    "TheCProgrammingLanguage/Motivation.md",
+    "TheCProgrammingLanguage/Chapter4.md",
+    "TheCProgrammingLanguage/Chapter2.md",
+    "TheCProgrammingLanguage/All functions given in book.md",
+    "TheCProgrammingLanguage/AssociativityTable.png",
+    "TheCProgrammingLanguage/Malloc.md",
+    "TheCProgrammingLanguage/Chapter5.md",
+    "DSAwithC++",
+    "TheCProgrammingLanguage",
+    "git-cheat-sheet-education.pdf",
+    "React",
+    "Python",
+    "Untitled.canvas"
+  ]
+}
